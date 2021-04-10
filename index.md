@@ -161,9 +161,9 @@ This is CNN...’s founder. (5)
 Those who would die in “A Quiet Place” (8)  
 <input type="text" size="10" class="time">
 Vietnam commander (9)   
-<input type="text" size="5" class="time">
+<input type="text" size="10" class="time">
 Who gets the estate? (8)    
-<input type="text" size="5" class="time">
+<input type="text" size="10" class="time">
 Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)   
 
 * * * 
