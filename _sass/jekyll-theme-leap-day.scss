@@ -286,13 +286,23 @@ small {
   font-size:12px;
 }
 
+.colright {
+  width: 230px;
+  position: fixed;
+  top: 220px;
+  left:50%;
+  margin-left:300px;
+  text-align: left;
+  }
+
+
 nav {
   width: 230px;
   position: fixed;
   top: 220px;
   left:50%;
   margin-left:-580px;
-  text-align: right;
+  text-align: left;
 
   ul {
     list-style: none;
