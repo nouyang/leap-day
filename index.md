@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Begin 
+# [ Begin ]
 
 Welcome to hunt! We have some puzzles for you.
 
@@ -21,6 +21,41 @@ Welcome to hunt! We have some puzzles for you.
 ```
 ANDOVICHAZGAZZELBALOGBLACKOTCOWLEYCYBERANDVROSGEGLAURUNGLLUMGORIYLIZZARDLMIALUIFERLURZMALACIOBLINOCTROKPISTACOPOSVOICERAINRASILONRMOSSELOBSIBYSLIHEENSNOWFLAKWACHIEFWEDIGO
 ```
+
+* * * 
+
+# Placeholder R
+
+* * * 
+
+# Placeholder D
+
+* * * 
+
+# Traveling by Plane 🌶️🌶️
+
+GS1 → M20
+
+ALA → SOM → THS → THB
+
+C14 → SOI → WAR  → ZNR 
+
+FRF →  WAR → M21
+
+ALA → ROE → KTK → DTK → M19 → WAR
+
+
+* * * 
+
+# A sticky situation 🌶️
+
+|:-------------|:
+Seafaring vessel | CALL |
+Bananas |  CHIP |
+Headwear for royalty |  CLASH |
+Thin out |   CLOWN |
+Fastener |   CRAZE |
+
 
 * * * 
 
@@ -60,58 +95,6 @@ Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)
 
 THOU HE <u>BALK</u> "REMOVER"
 
-```
-2020 sucked I knew,
-Clubs and bars I saw no ___.
-Real life friends I hardly see,
-No more cafe catchup ___.
-Inside no masks was a sin,
-Takeout replaced dining __ .
-New year spring brings outdoor botany,
-Also hope and vaccines for m___.
-```
-
-* * * 
-
-# Meta
-
-
-|:-------------|:------------------|:------|
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-|:-------------|:------------------|:------|
-| out of stock | good and plenty   | nice  |
-|:-------------|:------------------|:------|
-| ok           | good `oreos`      | hmm   |
-|:-------------|:------------------|:------|
-| ok           | good `zoute` drop | yumm  |
-
-
-* * * 
-
-# Meta 2
-
-<br>
-<b> hi</b>
-
-<div class="container">
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-</div>
-
-<b> hi</b>
-
-* * * 
-
-# Poetry Fancy
-
-THOU HE <u>BALK</u> "REMOVER"
-
 2020 sucked I knew,  
 Clubs and bars I saw no <input type="text" size='5' class="poetry">.  
 Real life friends I hardly see,  
@@ -121,5 +104,56 @@ Takeout replaced dining <input type="text" size='5' class="poetry">.
 New year spring brings outdoor botany,  
 Also hope and vaccines for m<input type="text" size='5' class="poetry">.  
 
+* * * 
 
+# Title Pending 🌶️
+
+
+<div class='joeri'>
+The <img src="assets/images/placeholder.png"> in the room.  
+</div>
+<div class='joeri'>
+Brave as a <img src="assets/images/placeholder.png">.  
+</div>
+
+<br>
+
+<div class='joeri'>
+Let the <img src="assets/images/placeholder.png"> out of the bag.  
+</div>
+<div class='joeri'>
+<img src="assets/images/placeholder.png">-shaving.  
+</div>
+
+<br>
+
+<div class='joeri'>
+Blind as a <img src="assets/images/placeholder.png"> .  
+</div>
+<div class='joeri'>
+The <img src="assets/images/placeholder.png">  around one’s neck.   
+</div>
+<div class='joeri'>
+Busy as a <img src="assets/images/placeholder.png"> .   
+</div>
+
+<br>
+
+<div class='joeri'>
+To <img src="assets/images/placeholder.png">  out of something.  
+</div>
+<div class='joeri'>
+Like a <img src="assets/images/placeholder.png">  out of water.   
+</div>
+<div class='joeri'>
+Quitting cold <img src="assets/images/placeholder.png"> .   
+</div>
+
+<br>
+
+* * * 
+
+# Meta 🌶️
+
+<img src="assets/images/Grid.png" alt="4x4 Grid">
 
