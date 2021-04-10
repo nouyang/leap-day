@@ -538,20 +538,8 @@ footer {
 }
 
 
-.container {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-gap: 5px;
-}
-.container div {
-  background-color: red;
-  aspect-ratio: 1;
-}
-
-.poetry {
-    size: 4;
-}
-
  input[type=text]:focus {
-  background-color: lightblue;
+  //background-color: lightblue;
+  // THIS CAUSES WEIRD RESIZING ISSUES ON FIREFOX
+  // DO NOT USE!!
 }

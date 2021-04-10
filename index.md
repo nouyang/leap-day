@@ -119,31 +119,52 @@ Also hope and vaccines for m<input type="text" size='5' class="poetry">.
 
 _Boy, they sure pick some weird people sometimes..._
 
-```
-Apparently, he really preferred offense planning (12)
-Character on a popular Netflix drama (3)
-Do Bunsen & Beaker count... or is it just non-fictional ones? (2)
-Famous dreamer (4)
-Finally, me! What... it’s not me? (2)
-Five missions away from winning 2 Oscars! (6)
-Former leader of Saudi Arabia (5)
-Healy painting (14)
-Nonstop flier from NYC to Paris (7)
-Olympic chairman in the 80s (2)
-One who rallies for a good cause! (7)
-Poor, poor planet... (5)
-Powerful woman who is cynophobic (2)
-She’s married to the first second gentleman (12)
-Still don’t know why he dropped the the (1)
-These avengers really went viral! (11)
-These fine people were named after a parable (12)
-This guy is definitely in his Prime! (3)
-This is CNN...’s founder. (5)
-Those who would die in “A Quiet Place” (8)
-Vietnam commander (9)
-Who gets the estate? (8)
-Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)
-```
+<input type="text" size="10" class="time">
+Apparently, he really preferred offense planning (12)   
+<input type="text" size="10" class="time">
+Character on a popular Netflix drama (3)    
+<input type="text" size="10" class="time">
+Do Bunsen & Beaker count... or is it just non-fictional ones? (2)   
+<input type="text" size="10" class="time">
+Famous dreamer (4)  
+<input type="text" size="10" class="time">
+Finally, me! What... it’s not me? (2)   
+<input type="text" size="10" class="time">
+Five missions away from winning 2 Oscars! (6)   
+<input type="text" size="10" class="time">
+Former leader of Saudi Arabia (5)   
+<input type="text" size="10" class="time">
+Healy painting (14)     
+<input type="text" size="10" class="time">
+Nonstop flier from NYC to Paris (7)     
+<input type="text" size="10" class="time">
+Olympic chairman in the 80s (2)     
+<input type="text" size="10" class="time">
+One who rallies for a good cause! (7)   
+<input type="text" size="10" class="time">
+Poor, poor planet... (5)    
+<input type="text" size="10" class="time">
+Powerful woman who is cynophobic (2)    
+<input type="text" size="10" class="time">
+She’s married to the first second gentleman (12)    
+<input type="text" size="10" class="time">
+Still don’t know why he dropped the the (1)   
+<input type="text" size="10" class="time">
+These avengers really went viral! (11)  
+<input type="text" size="10" class="time">
+These fine people were named after a parable (12)   
+<input type="text" size="10" class="time">
+This guy is definitely in his Prime! (3)    
+<input type="text" size="10" class="time">
+This is CNN...’s founder. (5)   
+<input type="text" size="10" class="time">
+Those who would die in “A Quiet Place” (8)  
+<input type="text" size="10" class="time">
+Vietnam commander (9)   
+<input type="text" size="5" class="time">
+Who gets the estate? (8)    
+<input type="text" size="5" class="time">
+Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)   
 
 * * * 
 
