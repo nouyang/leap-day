@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [ Begin ]
+# [ Start ]
 
 Welcome to hunt! We have some puzzles for you.
 
@@ -28,10 +28,6 @@ ANDOVICHAZGAZZELBALOGBLACKOTCOWLEYCYBERANDVROSGEGLAURUNGLLUMGORIYLIZZARDLMIALUIF
 
 * * * 
 
-# Placeholder D
-
-* * * 
-
 # Traveling by Plane 🌶️🌶️
 
 GS1 → M20
@@ -47,15 +43,65 @@ ALA → ROE → KTK → DTK → M19 → WAR
 
 * * * 
 
-# A sticky situation 🌶️
+# Title Pending 🌶️
 
-|:-------------|:
-Seafaring vessel | CALL |
-Bananas |  CHIP |
-Headwear for royalty |  CLASH |
-Thin out |   CLOWN |
-Fastener |   CRAZE |
+  
+  <div class='joeri'>
+    The <img src="{{site.baseurl}}/assets/images/placeholder.png"> in the room.  
+   </div>
+  <div class='joeri'>
+    Brave as a <img src="{{site.baseurl}}/assets/images/placeholder.png">.  
+  </div>
+  
+  <br>
 
+  <div class='joeri'>
+    Let the <img src="{{sites.baseurl}}/assets/images/placeholder.png"> out of the bag.  
+  </div>
+  <div class='joeri'>
+    <img src="{{sites.baseurl}}/assets/images/placeholder.png">-shaving.  
+  </div>
+
+  <br>
+
+  <div class='joeri'>
+    Blind as a <img src="{{sites.baseurl}}/assets/images/placeholder.png"> .  
+  </div>
+  <div class='joeri'>
+    The <img src="{{sites.baseurl}}/assets/images/placeholder.png">  around one’s neck.   
+  </div>
+  <div class='joeri'>
+    Busy as a <img src="{{sites.baseurl}}/assets/images/placeholder.png"> .   
+  </div>
+
+  <br>
+
+  <div class='joeri'>
+    To <img src="{{sites.baseurl}}/assets/images/placeholder.png">  out of something.  
+  </div>
+  <div class='joeri'>
+    Like a <img src="{{sites.baseurl}}/assets/images/placeholder.png">  out of water.   
+  </div>
+  <div class='joeri'>
+   Quitting cold <img src="{{sites.baseurl}}/assets/images/placeholder.png"> .   
+  </div>
+
+  <br>
+
+* * * 
+
+# Poetry 🌶️
+
+THOU HE <u>BALK</u> "REMOVER"
+
+2020 sucked I knew,  
+Clubs and bars I saw no <input type="text" size='5' class="poetry">.  
+Real life friends I hardly see,  
+No more cafe catchup <input type="text" size='5' class="poetry">.  
+Inside no masks was a sin,  
+Takeout replaced dining <input type="text" size='5' class="poetry">.  
+New year spring brings outdoor botany,  
+Also hope and vaccines for m<input type="text" size='5' class="poetry">.  
 
 * * * 
 
@@ -91,68 +137,20 @@ Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)
 
 * * * 
 
-# Poetry 🌶️
-
-THOU HE <u>BALK</u> "REMOVER"
-
-2020 sucked I knew,  
-Clubs and bars I saw no <input type="text" size='5' class="poetry">.  
-Real life friends I hardly see,  
-No more cafe catchup <input type="text" size='5' class="poetry">.  
-Inside no masks was a sin,  
-Takeout replaced dining <input type="text" size='5' class="poetry">.  
-New year spring brings outdoor botany,  
-Also hope and vaccines for m<input type="text" size='5' class="poetry">.  
+# Placeholder D
 
 * * * 
 
-# Title Pending 🌶️
+# A sticky situation 🌶️
 
-
-<div class='joeri'>
-The <img src="{{site.baseurl}}/assets/images/placeholder.png"> in the room.  
-</div>
-<div class='joeri'>
-Brave as a <img src="{{site.baseurl}}/assets/images/placeholder.png">.  
-</div>
-
-<br>
-
-<div class='joeri'>
-Let the <img src="{{sites.baseurl}}/assets/images/placeholder.png"> out of the bag.  
-</div>
-<div class='joeri'>
-<img src="{{sites.baseurl}}/assets/images/placeholder.png">-shaving.  
-</div>
-
-<br>
-
-<div class='joeri'>
-Blind as a <img src="{{sites.baseurl}}/assets/images/placeholder.png"> .  
-</div>
-<div class='joeri'>
-The <img src="{{sites.baseurl}}/assets/images/placeholder.png">  around one’s neck.   
-</div>
-<div class='joeri'>
-Busy as a <img src="{{sites.baseurl}}/assets/images/placeholder.png"> .   
-</div>
-
-<br>
-
-<div class='joeri'>
-To <img src="{{sites.baseurl}}/assets/images/placeholder.png">  out of something.  
-</div>
-<div class='joeri'>
-Like a <img src="{{sites.baseurl}}/assets/images/placeholder.png">  out of water.   
-</div>
-<div class='joeri'>
-Quitting cold <img src="{{sites.baseurl}}/assets/images/placeholder.png"> .   
-</div>
-
-<br>
+|:-------------|:
+Seafaring vessel | CALL |
+Bananas |  CHIP |
+Headwear for royalty |  CLASH |
+Thin out |   CLOWN |
+Fastener |   CRAZE |
 
 * * * 
-
 # Meta 🌶️
 
 <img src="{{site.baseurl}}/assets/images/Grid.png" alt="4x4 Grid">
