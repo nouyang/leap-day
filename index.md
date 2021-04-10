@@ -110,43 +110,43 @@ Also hope and vaccines for m<input type="text" size='5' class="poetry">.
 
 
 <div class='joeri'>
-The <img src="assets/images/placeholder.png"> in the room.  
+The <img src="{{site.baseurl}}/assets/images/placeholder.png"> in the room.  
 </div>
 <div class='joeri'>
-Brave as a <img src="assets/images/placeholder.png">.  
-</div>
-
-<br>
-
-<div class='joeri'>
-Let the <img src="assets/images/placeholder.png"> out of the bag.  
-</div>
-<div class='joeri'>
-<img src="assets/images/placeholder.png">-shaving.  
+Brave as a <img src="{{site.baseurl}}/assets/images/placeholder.png">.  
 </div>
 
 <br>
 
 <div class='joeri'>
-Blind as a <img src="assets/images/placeholder.png"> .  
+Let the <img src="{{sites.baseurl}}/assets/images/placeholder.png"> out of the bag.  
 </div>
 <div class='joeri'>
-The <img src="assets/images/placeholder.png">  around one’s neck.   
-</div>
-<div class='joeri'>
-Busy as a <img src="assets/images/placeholder.png"> .   
+<img src="{{sites.baseurl}}/assets/images/placeholder.png">-shaving.  
 </div>
 
 <br>
 
 <div class='joeri'>
-To <img src="assets/images/placeholder.png">  out of something.  
+Blind as a <img src="{{sites.baseurl}}/assets/images/placeholder.png"> .  
 </div>
 <div class='joeri'>
-Like a <img src="assets/images/placeholder.png">  out of water.   
+The <img src="{{sites.baseurl}}/assets/images/placeholder.png">  around one’s neck.   
 </div>
 <div class='joeri'>
-Quitting cold <img src="assets/images/placeholder.png"> .   
+Busy as a <img src="{{sites.baseurl}}/assets/images/placeholder.png"> .   
+</div>
+
+<br>
+
+<div class='joeri'>
+To <img src="{{sites.baseurl}}/assets/images/placeholder.png">  out of something.  
+</div>
+<div class='joeri'>
+Like a <img src="{{sites.baseurl}}/assets/images/placeholder.png">  out of water.   
+</div>
+<div class='joeri'>
+Quitting cold <img src="{{sites.baseurl}}/assets/images/placeholder.png"> .   
 </div>
 
 <br>
@@ -155,5 +155,5 @@ Quitting cold <img src="assets/images/placeholder.png"> .
 
 # Meta 🌶️
 
-<img src="assets/images/Grid.png" alt="4x4 Grid">
+<img src="{{site.baseurl}}/assets/images/Grid.png" alt="4x4 Grid">
 
