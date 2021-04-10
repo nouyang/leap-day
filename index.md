@@ -48,42 +48,52 @@ ALA → ROE → KTK → DTK → M19 → WAR
   
   <div class='joeri'>
     The <img src="{{site.baseurl}}/assets/images/placeholder.png"> in the room.  
+    <input type="text" size="10" class="joeri">
    </div>
   <div class='joeri'>
     Brave as a <img src="{{site.baseurl}}/assets/images/placeholder.png">.  
+    <input type="text" size="10" class="joeri">
   </div>
   
   <br>
 
   <div class='joeri'>
     Let the <img src="{{sites.baseurl}}/assets/images/placeholder.png"> out of the bag.  
+    <input type="text" size="10" class="joeri">
   </div>
   <div class='joeri'>
     <img src="{{sites.baseurl}}/assets/images/placeholder.png">-shaving.  
+    <input type="text" size="10" class="joeri">
   </div>
 
   <br>
 
   <div class='joeri'>
     Blind as a <img src="{{sites.baseurl}}/assets/images/placeholder.png"> .  
+    <input type="text" size="10" class="joeri">
   </div>
   <div class='joeri'>
     The <img src="{{sites.baseurl}}/assets/images/placeholder.png">  around one’s neck.   
+    <input type="text" size="10" class="joeri">
   </div>
   <div class='joeri'>
     Busy as a <img src="{{sites.baseurl}}/assets/images/placeholder.png"> .   
+    <input type="text" size="10" class="joeri">
   </div>
 
   <br>
 
   <div class='joeri'>
     To <img src="{{sites.baseurl}}/assets/images/placeholder.png">  out of something.  
+    <input type="text" size="10" class="joeri">
   </div>
   <div class='joeri'>
     Like a <img src="{{sites.baseurl}}/assets/images/placeholder.png">  out of water.   
+    <input type="text" size="10" class="joeri">
   </div>
   <div class='joeri'>
    Quitting cold <img src="{{sites.baseurl}}/assets/images/placeholder.png"> .   
+    <input type="text" size="10" class="joeri">
   </div>
 
   <br>
