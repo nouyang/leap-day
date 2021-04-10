@@ -2,122 +2,124 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Begin 
 
-[Link to another page](./another-page.html).
+Welcome to hunt! We have some puzzles for you.
 
-There should be whitespace between paragraphs.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~ -->
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!--- [Link to another page](./another-page.html). --->
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<!--- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* * * 
 
-### Header 3
+# Bagus 🌶️🌶️🌶️
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+```
+ANDOVICHAZGAZZELBALOGBLACKOTCOWLEYCYBERANDVROSGEGLAURUNGLLUMGORIYLIZZARDLMIALUIFERLURZMALACIOBLINOCTROKPISTACOPOSVOICERAINRASILONRMOSSELOBSIBYSLIHEENSNOWFLAKWACHIEFWEDIGO
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+* * * 
+
+# IT’S ABOUT TIME! 🌶️🌶️🌶️
+
+_Boy, they sure pick some weird people sometimes..._
+
+```
+Apparently, he really preferred offense planning (12)
+Character on a popular Netflix drama (3)
+Do Bunsen & Beaker count... or is it just non-fictional ones? (2)
+Famous dreamer (4)
+Finally, me! What... it’s not me? (2)
+Five missions away from winning 2 Oscars! (6)
+Former leader of Saudi Arabia (5)
+Healy painting (14)
+Nonstop flier from NYC to Paris (7)
+Olympic chairman in the 80s (2)
+One who rallies for a good cause! (7)
+Poor, poor planet... (5)
+Powerful woman who is cynophobic (2)
+She’s married to the first second gentleman (12)
+Still don’t know why he dropped the the (1)
+These avengers really went viral! (11)
+These fine people were named after a parable (12)
+This guy is definitely in his Prime! (3)
+This is CNN...’s founder. (5)
+Those who would die in “A Quiet Place” (8)
+Vietnam commander (9)
+Who gets the estate? (8)
+Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)
 ```
 
-#### Header 4
+* * * 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# Poetry 🌶️
 
-##### Header 5
+THOU HE <u>BALK</u> "REMOVER"
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+```
+2020 sucked I knew,
+Clubs and bars I saw no ___.
+Real life friends I hardly see,
+No more cafe catchup ___.
+Inside no masks was a sin,
+Takeout replaced dining __ .
+New year spring brings outdoor botany,
+Also hope and vaccines for m___.
+```
 
-###### Header 6
+* * * 
 
-| head1        | head two          | three |
+# Meta
+
+
+|:-------------|:------------------|:------|
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
+|:-------------|:------------------|:------|
 | out of stock | good and plenty   | nice  |
+|:-------------|:------------------|:------|
 | ok           | good `oreos`      | hmm   |
+|:-------------|:------------------|:------|
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
 
-* * *
+* * * 
 
-### Here is an unordered list:
+# Meta 2
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+<br>
+<b> hi</b>
 
-### And an ordered list:
+<div class="container">
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+</div>
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+<b> hi</b>
 
-### And a nested list:
+* * * 
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+# Poetry Fancy
 
-### Small image
+THOU HE <u>BALK</u> "REMOVER"
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+2020 sucked I knew,  
+Clubs and bars I saw no <input type="text" size='5' class="poetry">.  
+Real life friends I hardly see,  
+No more cafe catchup <input type="text" size='5' class="poetry">.  
+Inside no masks was a sin,  
+Takeout replaced dining <input type="text" size='5' class="poetry">.  
+New year spring brings outdoor botany,  
+Also hope and vaccines for m<input type="text" size='5' class="poetry">.  
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

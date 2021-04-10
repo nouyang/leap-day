@@ -304,6 +304,11 @@ nav {
   margin-left:-580px;
   text-align: left;
 
+  textarea {
+    display: block;
+    margin-left: auto;
+  }
+
   ul {
     list-style: none;
     list-style-image:none;
@@ -523,4 +528,19 @@ footer {
     bottom:auto;
     width:auto;
   }
+}
+
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 5px;
+}
+.container div {
+  background-color: red;
+  aspect-ratio: 1;
+}
+
+.poetry {
+    size: 4;
 }
